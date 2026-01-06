@@ -2,7 +2,7 @@
 
 <p align="left">
   <a href="https://www.biorxiv.org/content/10.1101/2025.11.11.687847v1">
-    <img src="https://img.shields.io/badge/Paper-bioRxiv-blue?style=for-the-badge" alt="bioRxiv Paper">
+    <img src="https://img.shields.io/badge/Paper-bioRxiv-red?style=for-the-badge" alt="bioRxiv Paper">
   </a>
   &nbsp;
   <a href="https://hf.co/collections/cmartell/martell-et-al-2025-aggregation-models-and-datasets">
