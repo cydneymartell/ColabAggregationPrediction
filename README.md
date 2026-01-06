@@ -24,9 +24,9 @@ The Colab notebook can be accessed from https://colab.research.google.com/drive/
 
 ## Key Features 
 
-- Predict aggregation for 50 &deg;C, 75 &deg;C or pH 4 aggregation for a single or multiple protein sequences. 
-- Perform deep mutational scan predictions for a protein of interest.
-- Integrate stability predictions from ThermoMPNN to compare predicted aggregation and stability effects of single point mutations. 
+  - Predict aggregation for 50 &deg;C, 75 &deg;C or pH 4 aggregation for a single or multiple protein sequences. 
+  - Perform deep mutational scan predictions for a protein of interest.
+  - Integrate stability predictions from ThermoMPNN to compare predicted aggregation and stability effects of single point mutations. 
 
 ---
 ## Acknowledgements 
