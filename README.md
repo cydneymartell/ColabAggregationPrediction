@@ -1,6 +1,6 @@
 # Google Colab Notebook to Predict and Engineer Aggregation Resistance
 
-<p align="center">
+<p align="left">
   <a href="https://www.biorxiv.org/content/10.1101/2025.11.11.687847v1">
     <img src="https://img.shields.io/badge/Paper-bioRxiv-blue?style=for-the-badge" alt="bioRxiv Paper">
   </a>
@@ -10,7 +10,7 @@
   </a>
   &nbsp;
   <a href="https://colab.research.google.com/drive/1KNWvGji8myBuI2uzOQ-O_xtEf0Q4pvbm?usp=sharing">
-    <img src="https://raw.githubusercontent.com/cmmartell/protein-aggregation-prediction/main/Figure/colab-badge.svg" alt="Open in Colab" style="height:28px">
+    <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab" style="height:28px">
   </a>
 </p>
 This repository contains scripts for predicting aggregation using the models and data from the manuscript [*Global Analysis of Aggregation Determinants in Small Protein Domains*] (https://www.biorxiv.org/content/10.1101/2025.11.11.687847v1). The goal of this project is to enable others to predict protein aggregation to engineer aggregation resistance. 
