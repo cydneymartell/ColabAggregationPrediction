@@ -1,9 +1,19 @@
 # Google Colab Notebook to Predict and Engineer Aggregation Resistance
-<a href="https://www.biorxiv.org/content/10.1101/2025.11.11.687847v1"><img src="https://img.shields.io/badge/Paper-bioRxiv-blue" style="max-width: 100%;"></a>
-<a href="https://hf.co/collections/cmartell/martell-et-al-2025-aggregation-models-and-datasets"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-red?label=Martell et al 2025" style="max-width: 100%;"></a>
-<a href="https://colab.research.google.com/drive/1KNWvGji8myBuI2uzOQ-O_xtEf0Q4pvbm?usp=sharing"><img src="Figure/colab-badge.svg" style="max-width: 100%;"></a>
 
-This repository contains scripts for predicting aggregation using the models and data from the manuscript [Global Analysis of Aggregation Determinants in Small Protein Domains] (https://www.biorxiv.org/content/10.1101/2025.11.11.687847v1). The goal of this project is to enable others to predict protein aggregation to engineer aggregation resistance. 
+<p align="center">
+  <a href="https://www.biorxiv.org/content/10.1101/2025.11.11.687847v1">
+    <img src="https://img.shields.io/badge/Paper-bioRxiv-blue?style=for-the-badge" alt="bioRxiv Paper">
+  </a>
+  &nbsp;
+  <a href="https://hf.co/collections/cmartell/martell-et-al-2025-aggregation-models-and-datasets">
+    <img src="https://img.shields.io/badge/%F0%9F%A4%97-Hugging%20Face-red?style=for-the-badge" alt="Hugging Face Collection">
+  </a>
+  &nbsp;
+  <a href="https://colab.research.google.com/drive/1KNWvGji8myBuI2uzOQ-O_xtEf0Q4pvbm?usp=sharing">
+    <img src="https://raw.githubusercontent.com/cmmartell/protein-aggregation-prediction/main/Figure/colab-badge.svg" alt="Open in Colab" style="height:28px">
+  </a>
+</p>
+This repository contains scripts for predicting aggregation using the models and data from the manuscript [*Global Analysis of Aggregation Determinants in Small Protein Domains*] (https://www.biorxiv.org/content/10.1101/2025.11.11.687847v1). The goal of this project is to enable others to predict protein aggregation to engineer aggregation resistance. 
 
 The Colab notebook can be accessed from https://colab.research.google.com/drive/1KNWvGji8myBuI2uzOQ-O_xtEf0Q4pvbm?usp=sharing.  This notebook can be used to predict aggregation for 50 &deg;C, 75 &deg;C or pH 4 aggregation for a single or multiple protein sequences. Additionally for a protein of interest predictions can be made and plotted across the deep mutational scan. We also incorporated stability predictions from ThermoMPNN to compare predicted aggregation and stability effects of single point mutations. 
 
